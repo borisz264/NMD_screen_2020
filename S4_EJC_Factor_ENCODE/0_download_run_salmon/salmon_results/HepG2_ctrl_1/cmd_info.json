@@ -1,0 +1,13 @@
+{
+    "salmon_version": "1.3.0",
+    "index": "../../8.019_profiling_analysis/20200719_make_salmon_indices/indices/superset_stops_collapsed_tx_k31/",
+    "libType": "ISR",
+    "threads": "40",
+    "mates1": "/dev/fd/63",
+    "mates2": "/dev/fd/62",
+    "gcBias": [],
+    "seqBias": [],
+    "validateMappings": [],
+    "output": "salmon_results/HepG2_ctrl_1",
+    "auxDir": "aux_info"
+}

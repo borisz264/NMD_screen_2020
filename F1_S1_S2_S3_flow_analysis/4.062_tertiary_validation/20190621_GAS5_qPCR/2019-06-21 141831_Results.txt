@@ -1,0 +1,426 @@
+* Block Type = 384-Well Block
+* Calibration Background is expired  = Yes
+* Calibration Background performed on = 12-10-2018
+* Calibration Normalization FAM-ROX is expired = Yes
+* Calibration Normalization FAM-ROX performed on = 12-10-2018
+* Calibration Normalization VIC-ROX is expired = Yes
+* Calibration Normalization VIC-ROX performed on = 12-10-2018
+* Calibration Pure Dye FAM is expired = Yes
+* Calibration Pure Dye FAM performed on = 12-10-2018
+* Calibration Pure Dye NED is expired = Yes
+* Calibration Pure Dye NED performed on = 12-10-2018
+* Calibration Pure Dye ROX is expired = Yes
+* Calibration Pure Dye ROX performed on = 12-10-2018
+* Calibration Pure Dye SYBR is expired = Yes
+* Calibration Pure Dye SYBR performed on = 12-10-2018
+* Calibration Pure Dye TAMRA is expired = Yes
+* Calibration Pure Dye TAMRA performed on = 12-10-2018
+* Calibration Pure Dye VIC is expired = Yes
+* Calibration Pure Dye VIC performed on = 12-10-2018
+* Calibration ROI is expired  = Yes
+* Calibration ROI performed on = 12-10-2018
+* Calibration Uniformity is expired  = Yes
+* Calibration Uniformity performed on = 12-10-2018
+* Chemistry = SYBR_GREEN
+* Date Created = 2019-06-21 14:18:36 PM EDT
+* Experiment Barcode = 
+* Experiment Comment = NA
+* Experiment File Name = C:\data\Boris\2019-06-21 141831.eds
+* Experiment Name = 2019-06-21 141831
+* Experiment Run End Time = 2019-06-21 15:38:19 PM EDT
+* Experiment Type = Standard Curve
+* Instrument Name = 278862427
+* Instrument Serial Number = 278862427
+* Instrument Type = QuantStudio(TM) 6 Flex System
+* Passive Reference = ROX
+* Quantification Cycle Method = Ct
+* Signal Smoothing On = true
+* Stage/ Cycle where Analysis is performed = Stage 2, Step 2
+* User Name = NA
+
+[Results]
+Well	Well Position	Omit	Sample Name	Target Name	Task	Reporter	Quencher	CT	Ct Mean	Ct SD	Quantity	Quantity Mean	Quantity SD	Automatic Ct Threshold	Ct Threshold	Automatic Baseline	Baseline Start	Baseline End	Comments	Y-Intercept	R(superscript 2)	Tm1	Slope	Tm2	Efficiency	Tm3
+1	A1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.183	19.797	3.989				true	0.096	true	1	40				78.331				
+2	A2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.847	19.797	3.989				true	0.096	true	1	40				78.331				
+3	A3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.929	19.797	3.989				true	0.096	true	1	40				78.331				
+4	A4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.124	19.797	3.989				true	0.096	true	1	40				78.462				
+5	A5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.516	19.797	3.989				true	0.096	true	1	40				78.462				
+6	A6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.746	19.797	3.989				true	0.096	true	1	40				78.462				
+7	A7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.875	19.797	3.989				true	0.096	true	1	40				78.462				
+8	A8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.803	19.797	3.989				true	0.096	true	1	40				78.462				
+9	A9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.733	19.797	3.989				true	0.096	true	1	40				78.462				
+10	A10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.725	19.797	3.989				true	0.096	true	1	40				78.462				
+11	A11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.010	19.797	3.989				true	0.096	true	1	40				78.462				
+12	A12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.157	19.797	3.989				true	0.096	true	1	40				78.594				
+13	A13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.805	19.797	3.989				true	0.096	true	1	40				78.594				
+14	A14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.148	19.797	3.989				true	0.096	true	1	40				78.594				
+15	A15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.684	19.797	3.989				true	0.096	true	1	40				78.594				
+16	A16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.783	19.797	3.989				true	0.096	true	1	40				78.594				
+17	A17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.176	19.797	3.989				true	0.096	true	1	40				78.462				
+18	A18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	22.749	19.797	3.989				true	0.096	true	1	40				78.857				
+19	A19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	25.325	19.797	3.989				true	0.096	true	1	40				94.236				
+20	A20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	22.015	19.797	3.989				true	0.096	true	1	40				79.514				
+21	A21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	21.894	19.797	3.989				true	0.096	true	1	40				84.115				
+22	A22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				77.674				
+23	A23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				86.481				
+24	A24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				92.790				
+25	B1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.786	19.797	3.989				true	0.096	true	1	40				78.331				
+26	B2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.674	19.797	3.989				true	0.096	true	1	40				78.462				
+27	B3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.790	19.797	3.989				true	0.096	true	1	40				78.462				
+28	B4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.335	19.797	3.989				true	0.096	true	1	40				78.462				
+29	B5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.338	19.797	3.989				true	0.096	true	1	40				78.462				
+30	B6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.520	19.797	3.989				true	0.096	true	1	40				78.199				
+31	B7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.001	19.797	3.989				true	0.096	true	1	40				78.462				
+32	B8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.799	19.797	3.989				true	0.096	true	1	40				78.462				
+33	B9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.728	19.797	3.989				true	0.096	true	1	40				78.462				
+34	B10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.539	19.797	3.989				true	0.096	true	1	40				78.462				
+35	B11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.825	19.797	3.989				true	0.096	true	1	40				78.462				
+36	B12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.190	19.797	3.989				true	0.096	true	1	40				78.594				
+37	B13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.811	19.797	3.989				true	0.096	true	1	40				78.594				
+38	B14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.153	19.797	3.989				true	0.096	true	1	40				78.594				
+39	B15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.662	19.797	3.989				true	0.096	true	1	40				78.594				
+40	B16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.878	19.797	3.989				true	0.096	true	1	40				78.594				
+41	B17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.633	19.797	3.989				true	0.096	true	1	40				78.462				
+42	B18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	22.935	19.797	3.989				true	0.096	true	1	40				78.857				
+43	B19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				88.847				
+44	B20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	27.479	19.797	3.989				true	0.096	true	1	40				71.758				
+45	B21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				77.674				
+46	B22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	23.226	19.797	3.989				true	0.096	true	1	40				67.683				
+47	B23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				81.617				
+48	B24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				62.426				
+49	C1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.832	19.797	3.989				true	0.096	true	1	40				78.462				
+50	C2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.824	19.797	3.989				true	0.096	true	1	40				78.462				
+51	C3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.821	19.797	3.989				true	0.096	true	1	40				78.462				
+52	C4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	15.926	19.797	3.989				true	0.096	true	1	40				78.462				
+53	C5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.301	19.797	3.989				true	0.096	true	1	40				78.462				
+54	C6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.906	19.797	3.989				true	0.096	true	1	40				78.462				
+55	C7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.285	19.797	3.989				true	0.096	true	1	40				78.462				
+56	C8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.996	19.797	3.989				true	0.096	true	1	40				78.462				
+57	C9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.737	19.797	3.989				true	0.096	true	1	40				78.462				
+58	C10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.654	19.797	3.989				true	0.096	true	1	40				78.462				
+59	C11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.784	19.797	3.989				true	0.096	true	1	40				78.462				
+60	C12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.206	19.797	3.989				true	0.096	true	1	40				78.462				
+61	C13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.843	19.797	3.989				true	0.096	true	1	40				78.462				
+62	C14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.221	19.797	3.989				true	0.096	true	1	40				78.594				
+63	C15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.674	19.797	3.989				true	0.096	true	1	40				78.594				
+64	C16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.957	19.797	3.989				true	0.096	true	1	40				78.462				
+65	C17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.666	19.797	3.989				true	0.096	true	1	40				78.462				
+66	C18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	22.984	19.797	3.989				true	0.096	true	1	40				78.857				
+67	C19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.607	19.797	3.989				true	0.096	true	1	40				91.607				
+68	C20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				66.632				
+69	C21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				90.030				
+70	C22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	6.032	19.797	3.989				true	0.096	true	1	40				86.218				
+71	C23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				73.993				
+72	C24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	5.435	19.797	3.989				true	0.096	true	1	40				77.148				
+73	D1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.741	19.797	3.989				true	0.096	true	1	40				78.462				
+74	D2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.634	19.797	3.989				true	0.096	true	1	40				78.462				
+75	D3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.856	19.797	3.989				true	0.096	true	1	40				78.462				
+76	D4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	15.735	19.797	3.989				true	0.096	true	1	40				78.462				
+77	D5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.216	19.797	3.989				true	0.096	true	1	40				78.462				
+78	D6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.665	19.797	3.989				true	0.096	true	1	40				78.462				
+79	D7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.696	19.797	3.989				true	0.096	true	1	40				78.462				
+80	D8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.834	19.797	3.989				true	0.096	true	1	40				78.462				
+81	D9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.011	19.797	3.989				true	0.096	true	1	40				78.462				
+82	D10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.572	19.797	3.989				true	0.096	true	1	40				78.462				
+83	D11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.365	19.797	3.989				true	0.096	true	1	40				78.462				
+84	D12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.470	19.797	3.989				true	0.096	true	1	40				78.594				
+85	D13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.890	19.797	3.989				true	0.096	true	1	40				78.594				
+86	D14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.195	19.797	3.989				true	0.096	true	1	40				78.594				
+87	D15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.482	19.797	3.989				true	0.096	true	1	40				78.594				
+88	D16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.822	19.797	3.989				true	0.096	true	1	40				78.594				
+89	D17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.011	19.797	3.989				true	0.096	true	1	40				78.594				
+90	D18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	24.271	19.797	3.989				true	0.096	true	1	40				78.988				
+91	D19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	24.683	19.797	3.989				true	0.096	true	1	40				84.378				
+92	D20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	15.660	19.797	3.989				true	0.096	true	1	40				81.617				
+93	D21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				83.326				
+94	D22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	33.856	19.797	3.989				true	0.096	true	1	40				71.496				
+95	D23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				88.321				
+96	D24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				72.284				
+97	E1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.751	19.797	3.989				true	0.096	true	1	40				78.462				
+98	E2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.607	19.797	3.989				true	0.096	true	1	40				78.462				
+99	E3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.847	19.797	3.989				true	0.096	true	1	40				78.462				
+100	E4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	15.709	19.797	3.989				true	0.096	true	1	40				78.462				
+101	E5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.219	19.797	3.989				true	0.096	true	1	40				78.462				
+102	E6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.934	19.797	3.989				true	0.096	true	1	40				78.462				
+103	E7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.755	19.797	3.989				true	0.096	true	1	40				78.462				
+104	E8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.823	19.797	3.989				true	0.096	true	1	40				78.462				
+105	E9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.936	19.797	3.989				true	0.096	true	1	40				78.462				
+106	E10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.329	19.797	3.989				true	0.096	true	1	40				78.462				
+107	E11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.402	19.797	3.989				true	0.096	true	1	40				78.594				
+108	E12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.527	19.797	3.989				true	0.096	true	1	40				78.594				
+109	E13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.395	19.797	3.989				true	0.096	true	1	40				78.462				
+110	E14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.271	19.797	3.989				true	0.096	true	1	40				78.594				
+111	E15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.533	19.797	3.989				true	0.096	true	1	40				78.594				
+112	E16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.810	19.797	3.989				true	0.096	true	1	40				78.594				
+113	E17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.920	19.797	3.989				true	0.096	true	1	40				78.594				
+114	E18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	24.024	19.797	3.989				true	0.096	true	1	40				78.988				
+115	E19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	27.665	19.797	3.989				true	0.096	true	1	40				78.462				
+116	E20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				81.223				
+117	E21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				65.712				
+118	E22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				71.758				
+119	E23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				83.983				
+120	E24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				72.679				
+121	F1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.678	19.797	3.989				true	0.096	true	1	40				78.462				
+122	F2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.678	19.797	3.989				true	0.096	true	1	40				78.462				
+123	F3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.941	19.797	3.989				true	0.096	true	1	40				78.462				
+124	F4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	15.711	19.797	3.989				true	0.096	true	1	40				78.594				
+125	F5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.268	19.797	3.989				true	0.096	true	1	40				78.462				
+126	F6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.997	19.797	3.989				true	0.096	true	1	40				78.462				
+127	F7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.525	19.797	3.989				true	0.096	true	1	40				78.462				
+128	F8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.628	19.797	3.989				true	0.096	true	1	40				78.462				
+129	F9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.987	19.797	3.989				true	0.096	true	1	40				78.594				
+130	F10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.368	19.797	3.989				true	0.096	true	1	40				78.594				
+131	F11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.343	19.797	3.989				true	0.096	true	1	40				78.594				
+132	F12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.785	19.797	3.989				true	0.096	true	1	40				78.594				
+133	F13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.988	19.797	3.989				true	0.096	true	1	40				78.594				
+134	F14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.277	19.797	3.989				true	0.096	true	1	40				78.594				
+135	F15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.586	19.797	3.989				true	0.096	true	1	40				78.594				
+136	F16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.212	19.797	3.989				true	0.096	true	1	40				78.462				
+137	F17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.986	19.797	3.989				true	0.096	true	1	40				78.594				
+138	F18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	23.924	19.797	3.989				true	0.096	true	1	40				78.988				
+139	F19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				87.007				
+140	F20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				72.416				
+141	F21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.295	19.797	3.989				true	0.096	true	1	40				74.650				
+142	F22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				81.880				
+143	F23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	23.083	19.797	3.989				true	0.096	true	1	40				80.303				
+144	F24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				78.857				
+145	G1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.723	19.797	3.989				true	0.096	true	1	40				78.725				
+146	G2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.762	19.797	3.989				true	0.096	true	1	40				78.725				
+147	G3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.224	19.797	3.989				true	0.096	true	1	40				78.594				
+148	G4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.272	19.797	3.989				true	0.096	true	1	40				78.594				
+149	G5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	21.539	19.797	3.989				true	0.096	true	1	40				78.462				
+150	G6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	21.629	19.797	3.989				true	0.096	true	1	40				78.462				
+151	G7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	23.182	19.797	3.989				true	0.096	true	1	40				78.462				
+152	G8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	23.002	19.797	3.989				true	0.096	true	1	40				78.462				
+153	G9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	24.743	19.797	3.989				true	0.096	true	1	40				78.462				
+154	G10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	24.809	19.797	3.989				true	0.096	true	1	40				78.462				
+155	G11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	25.955	19.797	3.989				true	0.096	true	1	40				78.594				
+156	G12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	24.486	19.797	3.989				true	0.096	true	1	40				78.725		74.782		
+157	G13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	26.251	19.797	3.989				true	0.096	true	1	40				78.594				
+158	G14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	27.109	19.797	3.989				true	0.096	true	1	40				78.594				
+159	G15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	29.787	19.797	3.989				true	0.096	true	1	40				75.176				
+160	G16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	28.210	19.797	3.989				true	0.096	true	1	40				75.439				
+161	G17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	25.549	19.797	3.989				true	0.096	true	1	40				78.857				
+162	G18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	21.158	19.797	3.989				true	0.096	true	1	40				75.176				
+163	G19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	30.981	19.797	3.989				true	0.096	true	1	40				80.434				
+164	G20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				87.927				
+165	G21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				64.134				
+166	G22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				68.867				
+167	G23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				82.406				
+168	G24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				82.669				
+169	H1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				88.584				
+170	H2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	7.476	19.797	3.989				true	0.096	true	1	40				78.725				
+171	H3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.493	19.797	3.989				true	0.096	true	1	40				92.396				
+172	H4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	24.398	19.797	3.989				true	0.096	true	1	40				94.631				
+173	H5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	21.223	19.797	3.989				true	0.096	true	1	40				84.640				
+174	H6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.073	19.797	3.989				true	0.096	true	1	40				78.462				
+175	H7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	9.723	19.797	3.989				true	0.096	true	1	40				84.509				
+176	H8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	21.096	19.797	3.989				true	0.096	true	1	40				78.594				
+177	H9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	22.045	19.797	3.989				true	0.096	true	1	40				84.640				
+178	H10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.858	19.797	3.989				true	0.096	true	1	40				83.720				
+179	H11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.399	19.797	3.989				true	0.096	true	1	40				84.115				
+180	H12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				78.594				
+181	H13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.647	19.797	3.989				true	0.096	true	1	40				77.805				
+182	H14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	21.699	19.797	3.989				true	0.096	true	1	40				84.115				
+183	H15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	7.260	19.797	3.989				true	0.096	true	1	40				83.720				
+184	H16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.499	19.797	3.989				true	0.096	true	1	40				77.937				
+185	H17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				82.143				
+186	H18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	21.015	19.797	3.989				true	0.096	true	1	40				78.857				
+187	H19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	34.623	19.797	3.989				true	0.096	true	1	40				93.448				
+188	H20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				82.143				
+189	H21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				85.035				
+190	H22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				84.903				
+191	H23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				92.002				
+192	H24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				86.612				
+193	I1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.854	19.797	3.989				true	0.096	true	1	40				83.983				
+194	I2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.573	19.797	3.989				true	0.096	true	1	40				83.983				
+195	I3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.027	19.797	3.989				true	0.096	true	1	40				83.983				
+196	I4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.437	19.797	3.989				true	0.096	true	1	40				84.115				
+197	I5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.374	19.797	3.989				true	0.096	true	1	40				83.983				
+198	I6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.625	19.797	3.989				true	0.096	true	1	40				84.115				
+199	I7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.941	19.797	3.989				true	0.096	true	1	40				84.115				
+200	I8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.912	19.797	3.989				true	0.096	true	1	40				84.115				
+201	I9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.524	19.797	3.989				true	0.096	true	1	40				84.115				
+202	I10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.494	19.797	3.989				true	0.096	true	1	40				84.115				
+203	I11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.205	19.797	3.989				true	0.096	true	1	40				84.115				
+204	I12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.395	19.797	3.989				true	0.096	true	1	40				84.115				
+205	I13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.189	19.797	3.989				true	0.096	true	1	40				84.115				
+206	I14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.599	19.797	3.989				true	0.096	true	1	40				84.115				
+207	I15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.582	19.797	3.989				true	0.096	true	1	40				84.115				
+208	I16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.003	19.797	3.989				true	0.096	true	1	40				83.983				
+209	I17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.237	19.797	3.989				true	0.096	true	1	40				83.983				
+210	I18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	25.639	19.797	3.989				true	0.096	true	1	40				83.852				
+211	I19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	29.016	19.797	3.989				true	0.096	true	1	40				77.674				
+212	I20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				71.233				
+213	I21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	28.792	19.797	3.989				true	0.096	true	1	40				65.317				
+214	I22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	11.408	19.797	3.989				true	0.096	true	1	40				70.575				
+215	I23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				94.105				
+216	I24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				94.631				
+217	J1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.774	19.797	3.989				true	0.096	true	1	40				83.983				
+218	J2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.505	19.797	3.989				true	0.096	true	1	40				83.983				
+219	J3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.119	19.797	3.989				true	0.096	true	1	40				83.983				
+220	J4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.796	19.797	3.989				true	0.096	true	1	40				83.983				
+221	J5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.198	19.797	3.989				true	0.096	true	1	40				84.115				
+222	J6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.641	19.797	3.989				true	0.096	true	1	40				84.115				
+223	J7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.899	19.797	3.989				true	0.096	true	1	40				84.115				
+224	J8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.243	19.797	3.989				true	0.096	true	1	40				84.115				
+225	J9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.427	19.797	3.989				true	0.096	true	1	40				84.115				
+226	J10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.297	19.797	3.989				true	0.096	true	1	40				84.115				
+227	J11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.637	19.797	3.989				true	0.096	true	1	40				84.115				
+228	J12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.397	19.797	3.989				true	0.096	true	1	40				84.115				
+229	J13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.149	19.797	3.989				true	0.096	true	1	40				84.115				
+230	J14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.343	19.797	3.989				true	0.096	true	1	40				84.115				
+231	J15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.634	19.797	3.989				true	0.096	true	1	40				84.115				
+232	J16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.892	19.797	3.989				true	0.096	true	1	40				84.115				
+233	J17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.342	19.797	3.989				true	0.096	true	1	40				84.115				
+234	J18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	26.427	19.797	3.989				true	0.096	true	1	40				83.852				
+235	J19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	24.462	19.797	3.989				true	0.096	true	1	40				85.166				
+236	J20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	12.018	19.797	3.989				true	0.096	true	1	40				84.378				
+237	J21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				76.228				
+238	J22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				78.857				
+239	J23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				68.078				
+240	J24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	35.677	19.797	3.989				true	0.096	true	1	40				92.527				
+241	K1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.834	19.797	3.989				true	0.096	true	1	40				83.983				
+242	K2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.637	19.797	3.989				true	0.096	true	1	40				83.983				
+243	K3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.211	19.797	3.989				true	0.096	true	1	40				83.983				
+244	K4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.520	19.797	3.989				true	0.096	true	1	40				84.115				
+245	K5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.324	19.797	3.989				true	0.096	true	1	40				83.983				
+246	K6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.451	19.797	3.989				true	0.096	true	1	40				84.115				
+247	K7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.260	19.797	3.989				true	0.096	true	1	40				83.983				
+248	K8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.936	19.797	3.989				true	0.096	true	1	40				84.115				
+249	K9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.496	19.797	3.989				true	0.096	true	1	40				84.115				
+250	K10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.284	19.797	3.989				true	0.096	true	1	40				84.115				
+251	K11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.980	19.797	3.989				true	0.096	true	1	40				84.115				
+252	K12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.498	19.797	3.989				true	0.096	true	1	40				84.115				
+253	K13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.189	19.797	3.989				true	0.096	true	1	40				84.115				
+254	K14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.270	19.797	3.989				true	0.096	true	1	40				84.115				
+255	K15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.626	19.797	3.989				true	0.096	true	1	40				84.115				
+256	K16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.827	19.797	3.989				true	0.096	true	1	40				84.115				
+257	K17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.315	19.797	3.989				true	0.096	true	1	40				84.115				
+258	K18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	25.293	19.797	3.989				true	0.096	true	1	40				83.852				
+259	K19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	25.817	19.797	3.989				true	0.096	true	1	40				89.635				
+260	K20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	14.747	19.797	3.989				true	0.096	true	1	40				76.622				
+261	K21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				85.561				
+262	K22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				79.120				
+263	K23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				73.073				
+264	K24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				67.815				
+265	L1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.745	19.797	3.989				true	0.096	true	1	40				83.983				
+266	L2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.956	19.797	3.989				true	0.096	true	1	40				83.983				
+267	L3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.361	19.797	3.989				true	0.096	true	1	40				83.983				
+268	L4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.250	19.797	3.989				true	0.096	true	1	40				83.983				
+269	L5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.616	19.797	3.989				true	0.096	true	1	40				83.983				
+270	L6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.616	19.797	3.989				true	0.096	true	1	40				84.115				
+271	L7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.708	19.797	3.989				true	0.096	true	1	40				83.983				
+272	L8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.914	19.797	3.989				true	0.096	true	1	40				84.115				
+273	L9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.706	19.797	3.989				true	0.096	true	1	40				84.115				
+274	L10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.946	19.797	3.989				true	0.096	true	1	40				84.115				
+275	L11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.252	19.797	3.989				true	0.096	true	1	40				84.115				
+276	L12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.632	19.797	3.989				true	0.096	true	1	40				83.983				
+277	L13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.620	19.797	3.989				true	0.096	true	1	40				84.115				
+278	L14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.937	19.797	3.989				true	0.096	true	1	40				84.115				
+279	L15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.598	19.797	3.989				true	0.096	true	1	40				84.115				
+280	L16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.262	19.797	3.989				true	0.096	true	1	40				84.115				
+281	L17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.362	19.797	3.989				true	0.096	true	1	40				83.983				
+282	L18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	26.325	19.797	3.989				true	0.096	true	1	40				83.983				
+283	L19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	21.268	19.797	3.989				true	0.096	true	1	40				84.378				
+284	L20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	11.483	19.797	3.989				true	0.096	true	1	40				65.843				
+285	L21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				85.429				
+286	L22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	15.326	19.797	3.989				true	0.096	true	1	40				69.392				
+287	L23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				62.426				
+288	L24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	5.252	19.797	3.989				true	0.096	true	1	40				65.580				
+289	M1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.785	19.797	3.989				true	0.096	true	1	40				83.983				
+290	M2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.863	19.797	3.989				true	0.096	true	1	40				83.983				
+291	M3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.322	19.797	3.989				true	0.096	true	1	40				83.983				
+292	M4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.347	19.797	3.989				true	0.096	true	1	40				83.983				
+293	M5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.565	19.797	3.989				true	0.096	true	1	40				83.983				
+294	M6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.647	19.797	3.989				true	0.096	true	1	40				83.983				
+295	M7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.641	19.797	3.989				true	0.096	true	1	40				83.983				
+296	M8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.786	19.797	3.989				true	0.096	true	1	40				84.115				
+297	M9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.656	19.797	3.989				true	0.096	true	1	40				84.115				
+298	M10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.775	19.797	3.989				true	0.096	true	1	40				84.115				
+299	M11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.229	19.797	3.989				true	0.096	true	1	40				84.115				
+300	M12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.555	19.797	3.989				true	0.096	true	1	40				84.115				
+301	M13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.967	19.797	3.989				true	0.096	true	1	40				83.983				
+302	M14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.889	19.797	3.989				true	0.096	true	1	40				84.115				
+303	M15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.851	19.797	3.989				true	0.096	true	1	40				84.115				
+304	M16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.161	19.797	3.989				true	0.096	true	1	40				84.115				
+305	M17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.153	19.797	3.989				true	0.096	true	1	40				84.115				
+306	M18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	26.168	19.797	3.989				true	0.096	true	1	40				83.983				
+307	M19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	24.501	19.797	3.989				true	0.096	true	1	40				76.885				
+308	M20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				66.500				
+309	M21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				87.532				
+310	M22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				82.011				
+311	M23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				0.000				
+312	M24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				93.448				
+313	N1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.716	19.797	3.989				true	0.096	true	1	40				83.852				
+314	N2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.144	19.797	3.989				true	0.096	true	1	40				83.983				
+315	N3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.361	19.797	3.989				true	0.096	true	1	40				83.983				
+316	N4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.359	19.797	3.989				true	0.096	true	1	40				83.983				
+317	N5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.676	19.797	3.989				true	0.096	true	1	40				83.983				
+318	N6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.636	19.797	3.989				true	0.096	true	1	40				83.983				
+319	N7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.718	19.797	3.989				true	0.096	true	1	40				83.983				
+320	N8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	16.826	19.797	3.989				true	0.096	true	1	40				84.115				
+321	N9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.783	19.797	3.989				true	0.096	true	1	40				84.115				
+322	N10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.731	19.797	3.989				true	0.096	true	1	40				84.115				
+323	N11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.957	19.797	3.989				true	0.096	true	1	40				84.115				
+324	N12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.393	19.797	3.989				true	0.096	true	1	40				84.115				
+325	N13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.699	19.797	3.989				true	0.096	true	1	40				84.115				
+326	N14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.787	19.797	3.989				true	0.096	true	1	40				84.115				
+327	N15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.880	19.797	3.989				true	0.096	true	1	40				84.115				
+328	N16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.394	19.797	3.989				true	0.096	true	1	40				83.983				
+329	N17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	18.357	19.797	3.989				true	0.096	true	1	40				83.983				
+330	N18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	26.188	19.797	3.989				true	0.096	true	1	40				83.983				
+331	N19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				81.880				
+332	N20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				66.106				
+333	N21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				90.030				
+334	N22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				86.875				
+335	N23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				73.336				
+336	N24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	13.717	19.797	3.989				true	0.096	true	1	40				71.758				
+337	O1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.635	19.797	3.989				true	0.096	true	1	40				84.115				
+338	O2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	17.597	19.797	3.989				true	0.096	true	1	40				84.115				
+339	O3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.301	19.797	3.989				true	0.096	true	1	40				83.983				
+340	O4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	19.119	19.797	3.989				true	0.096	true	1	40				83.983				
+341	O5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.660	19.797	3.989				true	0.096	true	1	40				83.983				
+342	O6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	20.604	19.797	3.989				true	0.096	true	1	40				83.983				
+343	O7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	22.243	19.797	3.989				true	0.096	true	1	40				83.983				
+344	O8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	22.003	19.797	3.989				true	0.096	true	1	40				83.983				
+345	O9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	23.854	19.797	3.989				true	0.096	true	1	40				84.115				
+346	O10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				61.374				
+347	O11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	25.558	19.797	3.989				true	0.096	true	1	40				84.115				
+348	O12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	25.495	19.797	3.989				true	0.096	true	1	40				84.115				
+349	O13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	27.363	19.797	3.989				true	0.096	true	1	40				84.115				
+350	O14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	27.468	19.797	3.989				true	0.096	true	1	40				84.115				
+351	O15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				61.374				
+352	O16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				61.505				
+353	O17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	27.227	19.797	3.989				true	0.096	true	1	40				83.983				
+354	O18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	27.422	19.797	3.989				true	0.096	true	1	40				83.983				
+355	O19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	30.472	19.797	3.989				true	0.096	true	1	40				84.115				
+356	O20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				81.223				
+357	O21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				93.842				
+358	O22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				65.449				
+359	O23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				81.617				
+360	O24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				88.321				
+361	P1	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				85.561				
+362	P2	false	Sample 1	Target 1	UNKNOWN	SYBR	None	9.812	19.797	3.989				true	0.096	true	1	40				83.720				
+363	P3	false	Sample 1	Target 1	UNKNOWN	SYBR	None	25.440	19.797	3.989				true	0.096	true	1	40				62.688				
+364	P4	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				91.870				
+365	P5	false	Sample 1	Target 1	UNKNOWN	SYBR	None	29.891	19.797	3.989				true	0.096	true	1	40				89.635				
+366	P6	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				79.382				
+367	P7	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				84.378				
+368	P8	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				84.903				
+369	P9	false	Sample 1	Target 1	UNKNOWN	SYBR	None	21.172	19.797	3.989				true	0.096	true	1	40				85.298				
+370	P10	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				79.251				
+371	P11	false	Sample 1	Target 1	UNKNOWN	SYBR	None	27.596	19.797	3.989				true	0.096	true	1	40				84.509				
+372	P12	false	Sample 1	Target 1	UNKNOWN	SYBR	None	25.757	19.797	3.989				true	0.096	true	1	40				82.537				
+373	P13	false	Sample 1	Target 1	UNKNOWN	SYBR	None	24.812	19.797	3.989				true	0.096	true	1	40				84.509				
+374	P14	false	Sample 1	Target 1	UNKNOWN	SYBR	None	26.907	19.797	3.989				true	0.096	true	1	40				90.424				
+375	P15	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				61.111				
+376	P16	false	Sample 1	Target 1	UNKNOWN	SYBR	None	26.494	19.797	3.989				true	0.096	true	1	40				87.007				
+377	P17	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				87.927				
+378	P18	false	Sample 1	Target 1	UNKNOWN	SYBR	None	12.559	19.797	3.989				true	0.096	true	1	40				83.589				
+379	P19	false	Sample 1	Target 1	UNKNOWN	SYBR	None	22.375	19.797	3.989				true	0.096	true	1	40				72.284				
+380	P20	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				78.594				
+381	P21	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				89.504				
+382	P22	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				0.000				
+383	P23	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				73.730				
+384	P24	false	Sample 1	Target 1	UNKNOWN	SYBR	None	Undetermined	19.797	3.989				true	0.096	true	1	40				89.767				

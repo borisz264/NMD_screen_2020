@@ -1,0 +1,426 @@
+* Block Type = 384-Well Block
+* Calibration Background is expired  = No
+* Calibration Background performed on = 12-10-2018
+* Calibration Normalization FAM-ROX is expired = No
+* Calibration Normalization FAM-ROX performed on = 12-10-2018
+* Calibration Normalization VIC-ROX is expired = No
+* Calibration Normalization VIC-ROX performed on = 12-10-2018
+* Calibration Pure Dye FAM is expired = No
+* Calibration Pure Dye FAM performed on = 12-10-2018
+* Calibration Pure Dye NED is expired = No
+* Calibration Pure Dye NED performed on = 12-10-2018
+* Calibration Pure Dye ROX is expired = No
+* Calibration Pure Dye ROX performed on = 12-10-2018
+* Calibration Pure Dye SYBR is expired = No
+* Calibration Pure Dye SYBR performed on = 12-10-2018
+* Calibration Pure Dye TAMRA is expired = No
+* Calibration Pure Dye TAMRA performed on = 12-10-2018
+* Calibration Pure Dye VIC is expired = No
+* Calibration Pure Dye VIC performed on = 12-10-2018
+* Calibration ROI is expired  = No
+* Calibration ROI performed on = 12-10-2018
+* Calibration Uniformity is expired  = No
+* Calibration Uniformity performed on = 12-10-2018
+* Chemistry = SYBR_GREEN
+* Date Created = 2019-03-21 17:30:26 PM EDT
+* Experiment Barcode = NA
+* Experiment Comment = NA
+* Experiment File Name = C:\data\Boris\2019-03-21 173017.eds
+* Experiment Name = 2019-03-21 173017
+* Experiment Run End Time = 2019-03-21 19:26:03 PM EDT
+* Experiment Type = Standard Curve
+* Instrument Name = 278862427
+* Instrument Serial Number = 278862427
+* Instrument Type = QuantStudio(TM) 6 Flex System
+* Passive Reference = ROX
+* Quantification Cycle Method = Ct
+* Signal Smoothing On = true
+* Stage/ Cycle where Analysis is performed = Stage 2, Step 2
+* User Name = NA
+
+[Sample Setup]
+Well	Well Position	Sample Name	Sample Color	Biogroup Name	Biogroup Color	Target Name	Target Color	Task	Reporter	Quencher	Quantity	Comments
+1	A1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+2	A2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+3	A3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+4	A4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+5	A5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+6	A6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+7	A7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+8	A8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+9	A9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+10	A10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+11	A11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+12	A12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+13	A13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+14	A14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+15	A15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+16	A16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+17	A17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+18	A18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+19	A19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+20	A20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+21	A21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+22	A22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+23	A23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+24	A24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+25	B1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+26	B2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+27	B3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+28	B4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+29	B5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+30	B6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+31	B7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+32	B8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+33	B9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+34	B10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+35	B11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+36	B12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+37	B13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+38	B14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+39	B15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+40	B16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+41	B17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+42	B18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+43	B19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+44	B20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+45	B21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+46	B22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+47	B23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+48	B24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+49	C1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+50	C2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+51	C3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+52	C4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+53	C5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+54	C6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+55	C7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+56	C8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+57	C9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+58	C10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+59	C11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+60	C12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+61	C13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+62	C14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+63	C15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+64	C16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+65	C17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+66	C18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+67	C19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+68	C20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+69	C21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+70	C22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+71	C23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+72	C24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+73	D1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+74	D2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+75	D3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+76	D4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+77	D5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+78	D6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+79	D7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+80	D8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+81	D9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+82	D10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+83	D11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+84	D12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+85	D13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+86	D14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+87	D15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+88	D16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+89	D17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+90	D18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+91	D19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+92	D20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+93	D21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+94	D22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+95	D23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+96	D24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+97	E1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+98	E2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+99	E3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+100	E4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+101	E5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+102	E6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+103	E7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+104	E8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+105	E9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+106	E10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+107	E11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+108	E12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+109	E13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+110	E14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+111	E15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+112	E16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+113	E17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+114	E18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+115	E19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+116	E20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+117	E21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+118	E22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+119	E23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+120	E24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+121	F1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+122	F2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+123	F3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+124	F4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+125	F5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+126	F6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+127	F7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+128	F8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+129	F9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+130	F10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+131	F11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+132	F12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+133	F13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+134	F14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+135	F15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+136	F16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+137	F17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+138	F18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+139	F19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+140	F20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+141	F21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+142	F22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+143	F23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+144	F24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+145	G1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+146	G2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+147	G3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+148	G4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+149	G5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+150	G6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+151	G7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+152	G8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+153	G9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+154	G10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+155	G11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+156	G12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+157	G13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+158	G14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+159	G15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+160	G16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+161	G17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+162	G18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+163	G19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+164	G20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+165	G21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+166	G22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+167	G23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+168	G24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+169	H1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+170	H2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+171	H3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+172	H4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+173	H5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+174	H6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+175	H7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+176	H8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+177	H9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+178	H10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+179	H11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+180	H12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+181	H13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+182	H14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+183	H15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+184	H16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+185	H17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+186	H18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+187	H19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+188	H20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+189	H21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+190	H22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+191	H23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+192	H24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+193	I1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+194	I2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+195	I3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+196	I4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+197	I5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+198	I6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+199	I7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+200	I8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+201	I9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+202	I10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+203	I11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+204	I12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+205	I13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+206	I14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+207	I15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+208	I16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+209	I17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+210	I18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+211	I19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+212	I20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+213	I21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+214	I22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+215	I23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+216	I24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+217	J1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+218	J2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+219	J3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+220	J4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+221	J5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+222	J6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+223	J7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+224	J8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+225	J9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+226	J10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+227	J11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+228	J12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+229	J13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+230	J14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+231	J15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+232	J16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+233	J17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+234	J18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+235	J19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+236	J20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+237	J21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+238	J22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+239	J23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+240	J24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+241	K1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+242	K2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+243	K3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+244	K4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+245	K5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+246	K6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+247	K7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+248	K8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+249	K9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+250	K10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+251	K11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+252	K12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+253	K13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+254	K14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+255	K15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+256	K16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+257	K17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+258	K18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+259	K19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+260	K20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+261	K21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+262	K22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+263	K23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+264	K24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+265	L1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+266	L2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+267	L3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+268	L4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+269	L5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+270	L6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+271	L7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+272	L8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+273	L9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+274	L10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+275	L11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+276	L12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+277	L13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+278	L14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+279	L15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+280	L16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+281	L17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+282	L18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+283	L19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+284	L20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+285	L21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+286	L22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+287	L23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+288	L24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+289	M1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+290	M2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+291	M3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+292	M4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+293	M5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+294	M6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+295	M7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+296	M8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+297	M9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+298	M10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+299	M11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+300	M12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+301	M13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+302	M14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+303	M15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+304	M16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+305	M17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+306	M18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+307	M19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+308	M20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+309	M21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+310	M22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+311	M23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+312	M24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+313	N1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+314	N2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+315	N3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+316	N4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+317	N5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+318	N6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+319	N7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+320	N8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+321	N9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+322	N10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+323	N11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+324	N12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+325	N13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+326	N14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+327	N15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+328	N16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+329	N17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+330	N18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+331	N19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+332	N20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+333	N21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+334	N22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+335	N23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+336	N24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+337	O1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+338	O2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+339	O3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+340	O4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+341	O5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+342	O6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+343	O7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+344	O8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+345	O9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+346	O10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+347	O11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+348	O12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+349	O13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+350	O14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+351	O15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+352	O16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+353	O17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+354	O18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+355	O19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+356	O20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+357	O21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+358	O22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+359	O23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+360	O24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+361	P1	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+362	P2	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+363	P3	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+364	P4	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+365	P5	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+366	P6	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+367	P7	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+368	P8	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+369	P9	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+370	P10	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+371	P11	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+372	P12	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+373	P13	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+374	P14	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+375	P15	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+376	P16	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+377	P17	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+378	P18	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+379	P19	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+380	P20	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+381	P21	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+382	P22	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+383	P23	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		
+384	P24	Sample 1	"RGB(176,23,31)"			Target 1	"RGB(176,23,31)"	UNKNOWN	SYBR	None		

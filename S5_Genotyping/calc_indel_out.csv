@@ -1,0 +1,7 @@
+sample,perfect matches,indels,misaligned reads,reads below threshold, reads with miscalled bases, reads with replacements,indel percentage, notes, MLE corrected rate, lower bound, upper bound
+﻿cBZ056_K562_UGAC_CRISPRx,8733,42,30,0,182,1,0.00468854655057,Error threshold not met returning best attempt,NA,NA,NA
+cBZ082_UGAC_eIF4E2_sorted,222913,926,516,0,4271,41,0.00405871549982,Error threshold not met returning best attempt,0.00401488487887,0.00376323397976,0.00428323826306
+cBZ090_eIF4E2-4,10081,28,17,0,186,2,0.00271923861319,Error threshold not met returning best attempt,0.00262212294843,0.00175474086559,0.0038604896414
+cBZ091_eIF4E2-5,18499,59,70,0,315,4,0.00312549663612,Error threshold not met returning best attempt,0.00307252211686,0.00235946541521,0.00398779402052
+cBZ083_UGAC_GIGYF2_sorted,1229,137438,18049,0,20,634,0.98648444958,Error threshold not met returning best attempt,0.986477271912,0.985856783565,0.98707093301
+cBZ094_GIGYF2-4,17,8889,20,0,0,0,0.998091174489,Error threshold not met returning best attempt,0.997978890636,0.996740543041,0.998787817419
